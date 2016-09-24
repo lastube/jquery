@@ -22,7 +22,7 @@ define( [
 	support, DOMEval ) {
 
 "use strict";
-
+var demo="demo"
 var
 	version = "@VERSION",testdemo="testdemo",src="testsrc",
 
